@@ -9,16 +9,16 @@
 /* Begin PBXBuildFile section */
 		31CA1B1628FD2CDC00F42524 /* HistoryPlacesApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31CA1B1528FD2CDC00F42524 /* HistoryPlacesApp.swift */; };
 		31CA1B1828FD2CDC00F42524 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31CA1B1728FD2CDC00F42524 /* ContentView.swift */; };
-		31CA1B1A28FD2CDD00F42524 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 31CA1B1928FD2CDD00F42524 /* Assets.xcassets */; };
 		31CA1B1D28FD2CDD00F42524 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 31CA1B1C28FD2CDD00F42524 /* Preview Assets.xcassets */; };
+		31CA1B2428FD2F5A00F42524 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 31CA1B2328FD2F5A00F42524 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		31CA1B1228FD2CDC00F42524 /* HistoryPlaces.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HistoryPlaces.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		31CA1B1528FD2CDC00F42524 /* HistoryPlacesApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistoryPlacesApp.swift; sourceTree = "<group>"; };
 		31CA1B1728FD2CDC00F42524 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		31CA1B1928FD2CDD00F42524 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		31CA1B1C28FD2CDD00F42524 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		31CA1B2328FD2F5A00F42524 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,7 +53,7 @@
 			children = (
 				31CA1B1528FD2CDC00F42524 /* HistoryPlacesApp.swift */,
 				31CA1B1728FD2CDC00F42524 /* ContentView.swift */,
-				31CA1B1928FD2CDD00F42524 /* Assets.xcassets */,
+				31CA1B2328FD2F5A00F42524 /* Assets.xcassets */,
 				31CA1B1B28FD2CDD00F42524 /* Preview Content */,
 			);
 			path = HistoryPlaces;
@@ -125,8 +125,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				31CA1B2428FD2F5A00F42524 /* Assets.xcassets in Resources */,
 				31CA1B1D28FD2CDD00F42524 /* Preview Assets.xcassets in Resources */,
-				31CA1B1A28FD2CDD00F42524 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
